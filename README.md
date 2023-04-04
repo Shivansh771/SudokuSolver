@@ -1,5 +1,5 @@
 # SudokuSolver
-### A sudoku solver app that I build for my DAA project.
+### A sudoku solver [app](https://github.com/Shivansh771/SudokuSolver/blob/main/Sudoku.apk) that I build for my DAA project.
 ![image](https://user-images.githubusercontent.com/76002564/229806726-cf487eb2-7b67-4194-a0b9-a351fbf2e458.png)
 ![image](https://user-images.githubusercontent.com/76002564/229807488-a0e5c796-78c1-48ec-b9a3-45c66d5e1c32.png)
 
